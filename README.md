@@ -1,21 +1,18 @@
-# coc8640b4ab7ea074c56f6bdc
+# 🚀 Chrome Extension - [Your Extension Name Here]
 
-Quick start:
+A powerful Chrome Extension that [briefly describe what it does — e.g., "helps manage tabs efficiently", "boosts productivity", etc.]
 
-```
-$ npm install
-$ npm start
-````
+## 📂 Features
 
-[link to website](https://add-to-cart-eb39f1.netlify.app/)
-## About Scrimba
+- ✅ Feature 1 (e.g., Quickly capture page URLs)
+- ✅ Feature 2 (e.g., Easy-to-use popup UI)
+- ✅ Feature 3 (e.g., Saves settings to local storage)
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+---
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
---[to view website](https://add-to-cart-eb39f1.netlify.app/)
-Happy Coding!
+## 🔧 How to Use This Extension
+
+### Step 1: Clone or Download the Repository
+
+```bash
+git clone https://github.com/jogaraoreddy/your-extension-repo.git
